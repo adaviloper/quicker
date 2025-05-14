@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome-shell-extensions">
+  <schema id="org.gnome.shell.extensions.quicker" path="/org/gnome/shell/extensions/quicker/">
+    <key name="launch-browser" type="as">
+      <default><![CDATA[['<Control><Alt><Shift>b']]]></default>
+      <summary>Shortcut to launch or focus the browser</summary>
+    </key>
+    <key name="launch-terminal" type="as">
+      <default><![CDATA[['<Control><Alt><Shift>Return']]]></default>
+      <summary>Shortcut to launch or focus the terminal</summary>
+    </key>
+  </schema>
+</schemalist>

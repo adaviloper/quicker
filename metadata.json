@@ -1,0 +1,8 @@
+{
+  "uuid": "quicker@adaviloper.com",
+  "name": "Quicker",
+  "description": "Focus or launch apps",
+  "version": 1,
+  "shell-version": ["48"],
+  "settings-schema": "org.gnome.shell.extensions.quicker"
+}
