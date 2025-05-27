@@ -5,6 +5,14 @@
       <default><![CDATA[['<Control><Alt><Shift>b']]]></default>
       <summary>Shortcut to launch or focus the browser</summary>
     </key>
+    <key name="launch-slack" type="as">
+      <default><![CDATA[['<Control><Alt><Shift>s']]]></default>
+      <summary>Shortcut to launch or focus the Discord client</summary>
+    </key>
+    <key name="launch-discord" type="as">
+      <default><![CDATA[['<Control><Alt><Shift>d']]]></default>
+      <summary>Shortcut to launch or focus the Discord client</summary>
+    </key>
     <key name="launch-terminal" type="as">
       <default><![CDATA[['<Control><Alt><Shift>Return']]]></default>
       <summary>Shortcut to launch or focus the terminal</summary>
